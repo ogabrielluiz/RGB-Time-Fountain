@@ -76,7 +76,7 @@ bool flag_red_sin = false;
 bool flag_green_sin = false;
 bool flag_blue_sin = false;
 
-short mode_status = 0;//just used for a status reprot
+short mode_status = 0;//just used for a status report
 float base_loop_count_temp = base_loop_count * 0.00277777777777777777777;
 
 float sin_count = 0;
